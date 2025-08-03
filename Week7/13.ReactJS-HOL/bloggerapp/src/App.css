@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  padding: 20px;
+
+  font-family: Arial, sans-serif;
+  padding-right: 30px;
+}
+
+.section {
+  padding: 10px;
+  border-left: 4px solid green;
+}
+
+.section:first-child {
+  border-left: none;
+}
+
+h1 {
+  color: black;
+}
