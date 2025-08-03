@@ -1,0 +1,24 @@
+.textRed {
+  color: red;
+  font-weight: bold;
+}
+
+.textGreen {
+  color: green;
+  font-weight: bold;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.Name {
+  text-align: left;
+}
+
+.header {
+
+  padding-left: 230px;
+  
+}
